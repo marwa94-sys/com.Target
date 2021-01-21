@@ -1,0 +1,72 @@
+Feature: Checking if user is able to create a new account
+
+
+
+Scenario: User should be able to create a new account
+Given user is landed on target front page
+When user clicks on signIn 
+And user selects create Account
+
+
+
+
+#Scenario: User Should be able to create an account
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
